@@ -21,10 +21,7 @@
 
 ---
 
-📧 [akhtarsameer743@gmail.com](mailto:akhtarsameer743@gmail.com)  
-📞 +91-6387374031  
-💼 [LinkedIn](https://linkedin.com/in/sameer-akhtar-9b645325b/)  
-💻 [GitHub](https://github.com/CodeNinja0615)
+📧 [akhtarsameer743@gmail.com](mailto:akhtarsameer743@gmail.com)  📞 +91-6387374031  💼 [LinkedIn](https://linkedin.com/in/sameer-akhtar-9b645325b/)
 
 ---
 
