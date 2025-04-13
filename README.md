@@ -83,13 +83,4 @@ Experienced Automation Engineer with:
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-🏫 SASTRA Deemed University _(Feb 2022 – Feb 2025)_  
-📈 CGPA: 8.5 / 10  
-📚 Relevant Subjects: Computer Architecture, Learning Algorithms, Computational Theory
-
----
-
 > Thanks for stopping by! Feel free to explore the repo or connect with me 🚀
