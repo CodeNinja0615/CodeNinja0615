@@ -1,13 +1,14 @@
 # 👨‍💻 Sameer Akhtar — Automation Test Engineer
 
 [![Java](https://img.shields.io/badge/Java-Experienced-orange?logo=java&style=flat-square)](https://www.java.com/)
-[![C#](https://img.shields.io/badge/C%23-Supported-blue?logo=csharp&style=flat-square)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-Experienced-blue?logo=csharp&style=flat-square)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Active-yellow?logo=javascript&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python&style=flat-square)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium&style=flat-square)](https://www.selenium.dev/)
 [![Playwright](https://img.shields.io/badge/Playwright-E2E-purple?logo=microsoft&style=flat-square)](https://playwright.dev/)
 [![Appium](https://img.shields.io/badge/Appium-Mobile-blueviolet?logo=appium&style=flat-square)](https://appium.io/)
 [![TestNG](https://img.shields.io/badge/TestNG-Testing-red?logo=testng&style=flat-square)](https://testng.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-Testing-green?logo=junit5&style=flat-square)](https://junit.org/)
 [![NUnit](https://img.shields.io/badge/NUnit-Testing-green?logo=nunit&style=flat-square)](https://nunit.org/)
 [![SpecFlow](https://img.shields.io/badge/SpecFlow-BDD-orange?logo=spectator&style=flat-square)](https://specflow.org/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-BDD-green?logo=cucumber&style=flat-square)](https://cucumber.io/)
