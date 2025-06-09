@@ -55,7 +55,7 @@ Experienced Automation Engineer with:
 
 ## 💼 Experience
 
-### 🚀 Lead Engineer — HCLTech _(Oct 2024 – Present)_
+### 🚀 Lead Engineer — HCLTech _(Oct 2024 – June 2025)_
 - 🕹 Built robust automation frameworks for cross-platform game testing
 - 🖼 Designed image-pattern and hardware-driven automation solutions
 - 💬 Improved customer feedback by 50% and reduced issue backlog by 20%
