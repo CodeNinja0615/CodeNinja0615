@@ -54,7 +54,11 @@ Experienced Automation Engineer with:
 ---
 
 ## 💼 Experience
-
+### 🚀 Senior Test Engineer — Testing Mavens _(June 2025 – Present)_
+- 🕹 Worked with WebDriverIO JS automation frameworks
+- 🖼 Worked on test suites and framework maintainance activities
+- 💬 Utilized GitHub Actions for CI/CD and GitHub secrets
+  
 ### 🚀 Lead Engineer — HCLTech _(Oct 2024 – June 2025)_
 - 🕹 Built robust automation frameworks for cross-platform game testing
 - 🖼 Designed image-pattern and hardware-driven automation solutions
