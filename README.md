@@ -1,8 +1,8 @@
 # 👨‍💻 Sameer Akhtar — Automation Test Engineer
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-akhtar-9b645325b/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-akhtar-9b645325b/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhtarsameer743@gmail.com)
 ---
 
 # 💻 Tech Stack
@@ -62,71 +62,5 @@
 
 ---
 
-# 📬 Contact Me  
-📧 [akhtarsameer743@gmail.com](mailto:akhtarsameer743@gmail.com)  
-📞 +91-6387374031  
-💼 [LinkedIn](https://linkedin.com/in/sameer-akhtar-9b645325b/)
-
-## 🧠 Summary
-
-Experienced Automation Engineer with:
-- 🤖 Expertise in Selenium, Appium, Playwright automation
-- 🔌 API testing using Rest Assured & Chrome DevTools Protocol
-- 🧱 Scalable, maintainable test framework design
-- 🔄 CI/CD integrations with Jenkins & Azure DevOps
-- 🎮 Advanced game testing using image-based and hardware-level automation
-
----
-
-## 🛠 Technical Skills
-
-### 👨‍💻 Languages
-- ☕ Java  🔷 C#  📜 JavaScript  🐍 Python
-
-### 🧪 Frameworks & Tools
-- 🧩 Selenium  📱 Appium  🌐 Playwright  
-- 🧪 TestNG  🧪 NUnit  🥒 Cucumber / SpecFlow  🔍 Mocha  
-- 🧬 Rest Assured  📄 Apache POI  🛠 Maven  
-- 📊 Allure Reports  📊 Extent Reports
-
-### ⚙️ DevOps & Source Control
-- 🛠 Jenkins  ☁️ Azure DevOps  🐙 Git
-
----
-
-## 💼 Experience
-### 🚀 Senior Test Engineer — Testing Mavens _(June 2025 – Present)_
-- 🕹 Worked with WebDriverIO JS automation frameworks
-- 🖼 Worked on test suites and framework maintainance activities
-- 💬 Utilized GitHub Actions for CI/CD and GitHub secrets
-  
-### 🚀 Lead Engineer — HCLTech _(Oct 2024 – June 2025)_
-- 🕹 Built robust automation frameworks for cross-platform game testing
-- 🖼 Designed image-pattern and hardware-driven automation solutions
-- 💬 Improved customer feedback by 50% and reduced issue backlog by 20%
-
-### 💻 Software Engineer — HCLTech _(Sept 2021 – Oct 2024)_
-- 🤖 Developed Selenium-based test frameworks with TestNG and Cucumber
-- ⏱ Enabled parallel test execution using Grid
-- 👥 Led team onboarding sessions and technical training
-
-### 🧪 Intern — HCLTech _(Mar 2021 – Sept 2021)_
-- 🔁 Automated critical test flows, reducing manual effort by 40%
-- 🗂 Used Git for version control and collaborative delivery
-
----
-
-## 🧠 Soft Skills
-
-- 🧠 Problem Solving  
-- 🤝 Team Collaboration  
-- 🗣 Communication Skills  
-- ⏳ Time Management  
-- 🎯 Test Planning & Execution
-
----
-
-> Thanks for stopping by! Feel free to explore the repo or connect with me 🚀
->
-> 
+> Thanks for stopping by! Feel free to explore the repo or connect with me 🚀 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
