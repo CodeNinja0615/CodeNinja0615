@@ -49,9 +49,6 @@
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-black?logo=github&style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeNinja0615&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
