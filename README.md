@@ -52,10 +52,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=codeninja0615&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeninja0615&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja0615&theme=dark&hide_border=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeninja0615&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codeninja0615&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja0615&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codeninja0615&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
