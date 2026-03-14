@@ -32,6 +32,7 @@
 
 ### 📡 API Testing
 ![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman&style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-purple?logo=microsoft&style=for-the-badge)
 ![RestAssured](https://img.shields.io/badge/RestAssured-API_Testing-brightgreen?style=for-the-badge)
 ![RestSharp](https://img.shields.io/badge/RestSharp-C%23_API_Testing-darkblue?style=for-the-badge)
 
